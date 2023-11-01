@@ -1,2 +1,2 @@
 # world-cuisine-nodeJS
-Simple NodeJS application that uses ,MySql, Express, Ejs and Bootstrap.
+Simple NodeJS application that uses Express, Ejs and Bootstrap.
